@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/automatic-aws-db-shutdown-cdk.ts"
+}
